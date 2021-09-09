@@ -9,29 +9,18 @@
   <h1>Github Stat </h1>
     <hr>
  <img src='https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg' width="100%"> 
-  <img src="https://visitor-badge.glitch.me/badge?page_id=Aditya664.Aditya664"/>
-<img src="https://img.shields.io/github/followers/Aditya664?label=Follow&style=social)](https://github.com/Aditya664"/>
-  <img src="https://badges.pufler.dev/repos/Aditya664"/>
+  <img src="https://visitor-badge.glitch.me/badge?page_id=shivamJadhav12.shivamJadhav12"/>
+<img src="https://img.shields.io/github/followers/shivamJadhav12?label=Follow&style=social)](https://github.com/shivamJadhav12"/>
+  <img src="https://badges.pufler.dev/repos/shivamJadhav12"/>
  
             
   <hr>
- <img src="https://activity-graph.herokuapp.com/graph?username=Aditya664&theme=redical&hide_border=true&area=true" alt="xd"/>
- <img src="https://github-readme-stats.vercel.app/api?username=Aditya664&show_icons=true&theme=radical"/>
- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aditya664&langs_count=8&theme=radical&layout=compact"/>
+ <img src="https://activity-graph.herokuapp.com/graph?username=shivamJadhav12&theme=redical&hide_border=true&area=true" alt="xd"/>
+ <img src="https://github-readme-stats.vercel.app/api?username=shivamJadhav12&show_icons=true&theme=radical"/>
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivamJadhav12&langs_count=8&theme=radical&layout=compact"/>
   <hr>
   <h1>Top Projects</h1>
     <hr>
-  <div display="flex">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Aditya664&repo=C-Sharp-Start-to-End&theme=synthwave">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Aditya664&repo=Dad-s-Joke&theme=synthwave">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Aditya664&repo=Animated-splash-screen.&theme=synthwave">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Aditya664&repo=Collage_Admin_App&theme=synthwave">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Aditya664&repo=DogVSCat_Prediction_using_tensorflow&theme=synthwave">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Aditya664&repo=Collage-Application_client_app&theme=synthwave">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Aditya664&repo=Implement-ml-model-in-android-app&theme=synthwave">
-    
-    
-    
-  </div>
+ 
   <hr>
 </div>
