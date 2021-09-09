@@ -22,4 +22,3 @@
   <hr>
 <h3>Certificate </h3>
   <hr>
-</div>
