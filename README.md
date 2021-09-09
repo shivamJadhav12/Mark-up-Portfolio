@@ -48,5 +48,5 @@
 
 </p>
 <div align="center">
-<h6>Made with 💖 by <a href="https://github.com/Aditya664">Aditya Deshmukh</a></h6>
+<h6>Made with 💖 by <a href="https://github.com/shivamJadhav12">Shivam Jadhav</a></h6>
   </div>
