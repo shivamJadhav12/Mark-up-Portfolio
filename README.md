@@ -28,15 +28,14 @@
 
 
 
-- 🔭 I’m currently working on **💥My Blog, Github Project**
+- 🖥⌨️ I’m currently working on My Web development, Github Projects,Collage Study
 
-- 🌱 I’m currently learning **Data Science,AWS,Data Engineering**
+- 💻💻 I’m currently learning Web development,Front end frameworks,Back end frameworks. 
 
-- 👯 I’m looking to collaborate on **Projects,Tech Articles**
+- 👩‍💻👨‍💻 I’m looking to collaborate on Projects 
 
-- 👨‍💻 All of my projects are available at [http://shivamjadhav.me/](http://shivamjadhav.me/)
+- 💬 Talk to me about Python, JavaScript, Freelancing Opportunites, Open Source 
 
-- 💬 Ask me about **Python, JavaScript, Freelancing Opportunites, Open Source**
 
 - 📫 How to reach me **shivamjadhav3112001@gmail.com**
 
