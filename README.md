@@ -36,7 +36,6 @@
 
 - 💬 Talk to me about Python, JavaScript, Freelancing Opportunites, Open Source 
 
-
 - 📫 How to reach me **shivamjadhav3112001@gmail.com**
 
 <p align="center">
